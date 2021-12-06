@@ -3,11 +3,12 @@
   "//2": "https://docs.npmjs.com/files/package.json",
   "//3": "updating this file will download and update your packages",
   "name": "hello-express",
-  "version": "0.0.1",
+  "version": "0.0.1",[InternetShortcut]
+
   "description": "A simple Node app built on Express, instantly up and running.",
-  "main": "enes.js",
+  "main": "wizard.js",
   "scripts": {
-    "start": "node enes.js"
+    "start": "node wizard.js"
   },
   "dependencies": {
     "express": "^4.17.1",
